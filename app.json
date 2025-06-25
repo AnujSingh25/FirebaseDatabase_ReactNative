@@ -1,4 +1,12 @@
 {
   "name": "GeoLocation",
-  "displayName": "GeoLocation"
+  "displayName": "GeoLocation",
+  "android": {
+    "package": "com.geolocation",
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyClUiOpNfQcWvVXuz4BeC2nWHc-gZQ9Jis"
+      }
+    }
+  }
 }
