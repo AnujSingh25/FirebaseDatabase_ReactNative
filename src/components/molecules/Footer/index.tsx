@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
         flexDirection: "row",
         justifyContent: "space-evenly",
         borderColor: AppColor.WHITE,
-        borderWidth: 0.4
+        borderWidth: 2
     }
 });
 
